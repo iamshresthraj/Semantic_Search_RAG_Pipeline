@@ -1,0 +1,12 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Large data file
+products_reviews.csv
+
+# Cloned repo temp folder
+repo_clone/

@@ -6,7 +6,7 @@
 ![FAISS](https://img.shields.io/badge/Vector%20Search-FAISS-red)
 
 **Author:** Shresth Raj  
-**Date:** March 2026  
+**Date of Project:** March 2026  
 
 ## 🎯 Objective
 This project implements a complete **Semantic Search and RAG (Retrieval-Augmented Generation)** pipeline designed to understand user intent based on *meaning* rather than mere keyword matching. By leveraging dense text embeddings and efficient vector similarity search, the pipeline dynamically surfaces the most relevant product context to assist in generating natural, intelligent answers.
